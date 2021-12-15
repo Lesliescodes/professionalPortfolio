@@ -22,8 +22,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 - VSC
 - GITHUB
 - GITBASH
+
 - WINDOWS
 
 ## screenshot
-
+![portfoliocss](https://user-images.githubusercontent.com/84750526/146148261-a4f1f0e1-dccf-4f1d-afbf-dbef5192eddb.JPG)
 ## link
+https://lesliescodes.github.io/professionalPortfolio/
